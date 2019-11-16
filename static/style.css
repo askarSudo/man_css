@@ -1,0 +1,12 @@
+* {padding: 0; margin: 0;}
+.wraper {
+    display: grid;
+    grid-template-columns: 70% 30%;
+    grid-column-gap: 1em;
+}
+
+.wraper > div.menu_btn{
+    padding: 1em;
+    background-color: #B4FF4D;
+}
+        
